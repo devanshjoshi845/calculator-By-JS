@@ -1,0 +1,22 @@
+.calculator{
+ text-align: center;
+ box-sizing: content-box;
+ }
+
+ table{
+margin: auto;
+
+ }
+ input{
+   font-size: 34px;
+   width: 300px;
+   text-align: center;
+   color: white;
+   background-color: rgb(152, 121, 121);
+ }
+ button{    font-size: 23px;
+   color:black;
+   background-color: green;
+   height: 60px;
+   width: 70px;
+ }
